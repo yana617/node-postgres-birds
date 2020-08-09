@@ -43,4 +43,4 @@ After successful start!
 
  GET/POST <http://localhost:8080/birds>
 
-Postgres subtask: [postgres-script.sql](../blob/master/postgres-script.sql)
+Postgres subtask: [postgres-script.sql](../master/postgres-script.sql)
